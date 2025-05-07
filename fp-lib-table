@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "pcie_hostless")(type "KiCad")(uri "/Users/nis/Develop/hw_design/pcie_hostless")(options "")(descr ""))
+)
